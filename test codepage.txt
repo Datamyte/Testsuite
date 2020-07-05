@@ -1,0 +1,81 @@
+<div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="./alumni/1.JPG">
+        <img src="./faculty/1.JPG" alt="Cinque Terre" width="300" height="200">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="./faculty/2.jpg">
+        <img src="./faculty/2.jpg" alt="Forest" width="300" height="200">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="./faculty/3.jpg">
+        <img src="./faculty/3.jpg" alt="Northern Lights" width="300" height="200">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="./faculty/4.jpg">
+        <img src="./faculty/4.jpg" alt="Mountains" width="300" height="200">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="./faculty/5.JPG">
+          <img src="./faculty/5.JPG" alt="Cinque Terre" width="300" height="200">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+  
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="./faculty/6.JPG">
+          <img src="./faculty/6.JPG" alt="Cinque Terre" width="300" height="200">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+  
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="./faculty/7.JPG">
+          <img src="./faculty/7.JPG" alt="Cinque Terre" width="300" height="200">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+  
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="./faculty/8.JPG">
+          <img src="./faculty/8.JPG" alt="Cinque Terre" width="300" height="200">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
+    
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="./faculty/9.JPG">
+          <img src="./faculty/9.JPG" alt="Cinque Terre" width="300" height="200">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+    </div>
